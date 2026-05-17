@@ -181,20 +181,12 @@ These findings reinforce the importance of precision-aware, energy-centric model
 
 ## 📁 Repository Contents
 
-```
-📦 IEEE-SB-JIIT-Research-Forum-2026/
- │
- ├── 📄 Tripathi_Singh_MobileNetV2_EdgeAI_Inference_IEEE_SBJIIT_2026.pdf
- │       └── Conference booklet excerpt: Cover · Proceedings · ToC · Paper (pp.35–36)
- │
- ├── 📄 Certificate_Sidhant_Singh.pdf
- │       └── Official Certificate of Participation — IEEE SB JIIT Research Forum 2026
- │
- ├── 📄 Certificate_Sarthak_Tripathi.pdf
- │       └── Official Certificate of Participation — IEEE SB JIIT Research Forum 2026
- │
- └── 📄 README.md
-```
+| File | Description |
+|------|-------------|
+| `Tripathi_Singh_MobileNetV2_EdgeAI_Inference_IEEE_SBJIIT_2026.pdf` | Conference booklet excerpt — Cover, Proceedings, Table of Contents & Paper (pp. 35–36) |
+|  `Certificate_Sidhant_Singh.pdf` | Official Certificate of Participation — IEEE SB JIIT Research Forum 2026 |
+|  `Certificate_Sarthak_Tripathi.pdf` | Official Certificate of Participation — IEEE SB JIIT Research Forum 2026 |
+|  `README.md` | Repository documentation |
 
 ---
 
