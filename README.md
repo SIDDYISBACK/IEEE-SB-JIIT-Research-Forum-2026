@@ -212,7 +212,7 @@ These findings reinforce the importance of precision-aware, energy-centric model
 ---
 
 ## ⚖️ License & Copyright
-
+  
 This repository is licensed under the **MIT License** — see the
 [LICENSE](./LICENSE) file for details.
 
